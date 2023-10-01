@@ -1,6 +1,6 @@
 buat database dengan nama "db_penduduk"
 
-import database "db_penduduk.sql" di phpmyadmin
+import database "db_penduduk.sql" melalui phpmyadmin
 
 username: admin
 password: admin
